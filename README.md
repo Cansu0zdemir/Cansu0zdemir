@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Cansu 👋
 
-<!--
-**Cansu0zdemir/Cansu0zdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with experience in backend development and system integrations.
 
-Here are some ideas to get you started:
+### 💼 Experience
+- Backend development with C#
+- Database development (SQL, Oracle)
+- Integration projects using Dell Boomi
+- REST & SOAP APIs
+- Web Development with ASP.NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- C#, .NET
+- SQL / Oracle
+- Dell Boomi (iPaaS)
+- REST / SOAP
+
+### 🎯 Current Focus
+- Returning to software development
+- Building backend & integration projects
+- Open to remote and freelance opportunities
